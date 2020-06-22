@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0fe1986f.chunk.css",
+    "main.js": "/portfolio/static/js/main.5c1ea97a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5c1ea97a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.680679b4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.680679b4.js.map",
+    "static/css/2.433215ff.chunk.css": "/portfolio/static/css/2.433215ff.chunk.css",
+    "static/js/2.15de9257.chunk.js": "/portfolio/static/js/2.15de9257.chunk.js",
+    "static/js/2.15de9257.chunk.js.map": "/portfolio/static/js/2.15de9257.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c15f96bdc232f088bf92fa310bd50e4c.js": "/portfolio/precache-manifest.c15f96bdc232f088bf92fa310bd50e4c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.433215ff.chunk.css.map": "/portfolio/static/css/2.433215ff.chunk.css.map",
+    "static/css/main.0fe1986f.chunk.css.map": "/portfolio/static/css/main.0fe1986f.chunk.css.map",
+    "static/js/2.15de9257.chunk.js.LICENSE": "/portfolio/static/js/2.15de9257.chunk.js.LICENSE",
+    "static/media/Anipic.png": "/portfolio/static/media/Anipic.4f424d85.png",
+    "static/media/VenkateshAnirudh_SWE_Resume.pdf": "/portfolio/static/media/VenkateshAnirudh_SWE_Resume.09e3dd1f.pdf",
+    "static/media/android_app_img.png": "/portfolio/static/media/android_app_img.24b6d96b.png",
+    "static/media/digit_class_app_img.png": "/portfolio/static/media/digit_class_app_img.609c3bf1.png",
+    "static/media/facedetectbackendimg.png": "/portfolio/static/media/facedetectbackendimg.9be55c7e.png",
+    "static/media/facedetectimg.png": "/portfolio/static/media/facedetectimg.168f88d7.png",
+    "static/media/kerasicon.svg": "/portfolio/static/media/kerasicon.172110ac.svg",
+    "static/media/portfolioimg.png": "/portfolio/static/media/portfolioimg.a8b1c01d.png",
+    "static/media/tficon.svg": "/portfolio/static/media/tficon.c213c3ee.svg",
+    "static/media/thesis_img.png": "/portfolio/static/media/thesis_img.09fbc3b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.680679b4.js",
+    "static/css/2.433215ff.chunk.css",
+    "static/js/2.15de9257.chunk.js",
+    "static/css/main.0fe1986f.chunk.css",
+    "static/js/main.5c1ea97a.chunk.js"
+  ]
+}
