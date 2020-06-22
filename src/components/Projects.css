@@ -1,0 +1,25 @@
+.grid-wrapper{
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
+	justify-content: center;
+}
+
+.card-config {
+    display: flex;
+    flex-direction: column;
+    height:100%;
+}
+
+.card-body-config {
+    display: flex;
+    flex: 1 0 auto;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.button-config{
+    display: flex;
+    justify-content: flex-start;
+}
